@@ -1,2 +1,2 @@
 # 31github
-Growthhungry challenge
+Growthhungry challenge and preparation for olympiad
