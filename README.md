@@ -1,2 +1,2 @@
 # 31github
-Growthhungry channel
+Growthhungry challenge
